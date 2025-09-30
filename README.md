@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/Manocro?v=4" width="140" alt="Manocro's profile picture" />
+  <img src="https://user-images.githubusercontent.com/Manocro/custom-profile-image.jpg" width="160" alt="Manocro profile picture" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">Hi, I'm Manuel Edwardo De La Rosa Modesto!</h1>
