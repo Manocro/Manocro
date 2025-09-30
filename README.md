@@ -4,6 +4,10 @@
   <b>Computer Science Student & Project Creator</b>
 </p>
 
+<p align="center">
+  I am a detailed computer science student with a strong foundation in OOP, algorithms, and some AI tools (agentic). My discipline, trained through studying music professionally for years, allows me to learn quickly and find solutions efficiently, and I am fully bilingual in English and Spanish.
+</p>
+
 ---
 
 ## 🛠️ Languages & Skills
