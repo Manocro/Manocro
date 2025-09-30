@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/Manocro?v=4" width="140" alt="Manocro's profile picture" />
 </p>
 
-<h1 align="center">Hi, I'm Manocro! 👋</h1>
+<h1 align="center">Hi, I'm Manuel Edwardo De La Rosa Modesto!</h1>
 
 <p align="center">
   <b>Computer Science Student & Project Creator</b>
@@ -36,15 +36,6 @@
 
 - **[Event Calendar App](https://github.com/Manocro/EVENT-CALENDAR-APP)**  
   <sub>Efficient event scheduling and calendar management app.</sub>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manocro&show_icons=true&theme=default" alt="Manocro's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manocro&layout=compact&theme=default" alt="Top Languages" height="165" />
-</p>
 
 ---
 
