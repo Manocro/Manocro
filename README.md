@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/Manocro/custom-profile-image.jpg" width="160" alt="Manocro profile picture" style="border-radius:50%;" />
-</p>
-
 <h1 align="center">Hi, I'm Manuel Edwardo De La Rosa Modesto!</h1>
 
 <p align="center">
