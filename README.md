@@ -1,5 +1,3 @@
-<!-- GitHub Profile README for Manocro -->
-
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/Manocro?v=4" width="140" alt="Manocro's profile picture" />
 </p>
@@ -7,43 +5,46 @@
 <h1 align="center">Hi, I'm Manocro! 👋</h1>
 
 <p align="center">
-  <b>🎸 Computer Science & Music Double Major | C++ Enthusiast | Project Creator</b>
+  <b>Computer Science Student & Project Creator</b>
 </p>
-
----
-
-## 👨‍🎓 About Me
-
-- 🎓 I’m a Computer Science student, also double majoring in Music.
-- 💻 Passionate about algorithms, software development, and the creativity behind both code and music.
-- 🎶 Music has taught me the art of time management, discipline, and—above all—attention to detail, which I bring to my code every day!
 
 ---
 
 ## 🛠️ Languages & Skills
 
-- **C++** (most experienced)
-- Java
-- Python
+<p>
+  <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" /> <b>C++</b> &nbsp;&nbsp;
+  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" /> <b>Java</b> &nbsp;&nbsp;
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" /> <b>Python</b>
+</p>
 
 ---
 
 ## 🌟 Featured Projects
 
 - **[Research On Search Algorithms](https://github.com/Manocro/Research-On-Search-Algorithms)**  
-  *A deep dive into algorithm efficiency, featuring a full report comparing speed and performance in C++.*
+  <sub>Compare algorithm performance in C++ with a full analytical report.</sub>
 
 - **[Nobel Laureate Explorer CSV Reader](https://github.com/Manocro/Nobel-Laureate-Explorer-CSV-READER-)**  
-  *A project to analyze and explore Nobel laureate data using CSV parsing.*
+  <sub>Analyze Nobel laureate data using custom CSV parsing tools.</sub>
 
 - **[Java Event Manager](https://github.com/Manocro/Java-Event-Manager-To-Study-Design-Patterns)**  
-  *An event management system built in Java while studying design patterns.*
+  <sub>Event management system built in Java to explore design patterns.</sub>
 
 - **[Cash Register Application](https://github.com/Manocro/Cash-Register-Application-)**  
-  *A practical application simulating a cash register system.*
+  <sub>Simulates a cash register system using practical OOP principles.</sub>
 
 - **[Event Calendar App](https://github.com/Manocro/EVENT-CALENDAR-APP)**  
-  *A calendar app to manage and schedule events efficiently.*
+  <sub>Efficient event scheduling and calendar management app.</sub>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manocro&show_icons=true&theme=default" alt="Manocro's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manocro&layout=compact&theme=default" alt="Top Languages" height="165" />
+</p>
 
 ---
 
@@ -54,13 +55,6 @@
 
 ---
 
-<details>
-<summary>🎵 Fun Fact</summary>
-Although music and computer science seem very different, music has taught me time management, discipline, and a sharp eye for detail—skills I now apply in programming!
-</details>
-
----
-
-<p align="center">
-  <i>Always learning, always creating—one note and one line of code at a time!</i>
-</p>
+<sub>
+  <b>Fun fact:</b> I'm also majoring in music! Studying music has given me strong time-management skills and attention to detail, which I apply to my coding projects.
+</sub>
