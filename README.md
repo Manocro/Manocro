@@ -39,6 +39,10 @@
 - **[Event Calendar App](https://github.com/Manocro/EVENT-CALENDAR-APP)**  
   <sub>Efficient event scheduling and calendar management app.</sub>
 
+- **[Birthday Letter Website for my girlfriend](https://github.com/Manocro/Bday-Letter)**]
+  <sub>Simple website construction and design, using CSS for styling. Deployed using github pages and google domains.</sub>
+  <sub>Link: **manuellovesyou.app**</sub>
+
 ---
 
 ## 📫 Connect with Me
