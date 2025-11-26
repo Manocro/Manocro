@@ -16,6 +16,8 @@
   <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" /> <b>C++</b> &nbsp;&nbsp;
   <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" /> <b>Java</b> &nbsp;&nbsp;
   <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" /> <b>Python</b>
+  <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" width="32" /> <b>HTML</b>
+  <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" width="32" /> <b>Css</b>
 </p>
 
 ---
